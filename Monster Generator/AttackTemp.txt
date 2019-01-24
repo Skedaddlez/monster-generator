@@ -1,0 +1,5 @@
+﻿<property-block>
+      <h4>{atknamevar}</h4>
+      <p><i>{Melee} Weapon Attack:</i> +{tohitvar} to hit, reach {rangevar} ft., one targets.
+        <i>Hit:</i> {atkdmgvar} ({atkdicevar}) {atkdmgtypevar} damage.</p>
+    </property-block>

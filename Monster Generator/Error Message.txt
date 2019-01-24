@@ -1,0 +1,4 @@
+﻿<property-block>
+      <p><i>The following required inputs were not correctly provided:</i></p><br> <h4><i>{presenterrors}.</i></h4>
+	  <p><div align="left">Inputs were defaulted to various values.</p>   
+</property-block>

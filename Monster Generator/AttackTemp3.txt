@@ -1,0 +1,4 @@
+﻿<property-block>
+      <h4>{atknamevar}</h4>
+      <p>{atkdescvar}</p>
+    </property-block>

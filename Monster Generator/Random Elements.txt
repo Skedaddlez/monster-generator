@@ -1,0 +1,72 @@
+﻿//RandomMonsterName
+Gloom,Gray,Dire,Black,Shadow,Haze,Wind,Storm,Warp,Night,Moon,Star,Pit,Flame,Ice,Seethe,Sharp,Ash,Blade,Steel,Stone,Rust,Mold,Blight,Plague,Rot,Ooze,Puke,Snot,Bile,Blood,Pulse,Gut,Gore,Flesh,Bone,Spine,Mind,Spirit,Soul,Wrath,Grief,Foul,Vile,Sin,Chaos,Dread,Doom,Bane,Death,Viper,Dragon,Devil,Spider,Rat,Gas,White,Red,Blue,Yellow,Grim,Hook,Iron,Were,Killer,Sea,Storm,Water,Earth,Hollow,Dark,Light,Gold,Morning,River,Gaze,Oak,Mountain
+Touch,Spell,Feast,Wound,Grin,Maim,Hack,Bite,Rend,Burn,Ripper,Kill,Call,Vex,Jade,Web,Shield,Killer,Razor,Drinker,Shifter,Crawler,Dancer,Bender,Weaver,Eater,Widow,Maggot,Spawn,Wight,Grumble,Growler,Snarl,Wolf,Crow,Raven,Hawk,Cloud,Bang,Head,Skull,Brow,Eye,Maw,Tongue,Fang,Horn,Thorn,Claw,Fist,Heart,Shank,Skin,Wing,Pox,Fester,Blister,Pus,Slime,Drool,Froth,Sludge,Venom,Poison,Break,Shard,Flame,Maul,Thirst,Lust,Crab,hawk,lizard,rat,snake,ape,hunter,iron,athan,Lord,storm,giant,hunger,scale,ling,lover,knight,tongue,worm
+
+//RandomMonsterSize
+Tiny,Small,Medium,Large,Huge,Gargantuan
+
+//RandomMonsterType
+Aberration,Beast,Celestial,Construct,Dragon,Elemental,Fey,Fiend,Giant,Humanoid,Monstrosity,Ooze,Plant,Undead
+
+//RandomAlignment
+Lawful Good,Neutral Good,Chaotic Good,Lawful Neutral,True Neutral,Chaotic Neutral,Lawful Evil,Neutral Evil,Chaotic Evil
+
+//RandomSpeed
+0,5,10,15,20,25,25,30,30,30,35,35,35,40,40,40,45,50,55,60,65,70,75,80,85,90,95,100
+
+//Saves
+Str,Dex,Con,Int,Wis,Cha
+
+//Skills
+Acrobatics,Animal Handling,Arcana,Athletics,Deception,History,Insight,Intimidation,Investigation,Medicine,Nature,Perception,Performance,Persuasion,Religion,Sleight of Hand,Stealth,Survival
+
+//Senses
+Blindsight 60ft,Darkvision 60ft.,Tremorsense 60ft.,Truesight 60ft.
+
+//Languages
+Common,Dwarvish,Elvish,Giant,Gnomish,Goblin,Halfling,Orc,Abyssal,Celestial,Draconic,Kraul,Loxodon,Merfolk,Minotaur,Sphinx,Vedalkin,DeepSpeech,Infernal,Primodial,Aquan,Auran,Ignan,Terran,Sylvan,Undercommon,Aarakocra,Druidic,Gith,Thieves' Cant
+
+//DMGvuln
+Acid,Bludgeoning,Cold,Fire,Force,Lightning,Necrotic,Piercing,Poison,Psychic,Radiant,Slashing,Thunder
+
+//DMGResist
+Acid,Bludgeoning,Cold,Fire,Force,Lightning,Necrotic,Piercing,Poison,Psychic,Radiant,Slashing,Thunder
+
+//DMGImmune
+ Acid,Bludgeoning,Cold,Fire,Force,Lightning,Necrotic,Piercing,Poison,Psychic,Radiant,Slashing,Thunder
+
+//CONDresist
+ Blinded,Charmed,Deafened,Fatigued,Frightened,Grappled,Incapacitated,Paralyzed,Petrified,Poisoned,Prone,Restrained,Stunned,Unconscious,Exhaustion
+
+//CONDimmune
+ Blinded,Charmed,Deafened,Fatigued,Frightened,Grappled,Incapacitated,Paralyzed,Petrified,Poisoned,Prone,Restrained,Stunned,Unconscious,Exhaustion
+
+//Stat ranks
+
+
+//Stat variability
+
+
+//Attack 1 name
+ Omen, Intervention, Eruption, Empowerment,barrier,singe,gouge,squeeze,fly, Duplication, Conflagration,jinx,dispel,assault,sever,dice,smite,deluge, Riptide,truth,bounce,purge,rumble,snap, Clone,meddle,freeze, Sacrifice, Control,lure,hand,bolt,touch, Stone,stone,bond, Knife,blade, Sphere,beam,ray,wind,light
+ 
+ //Attack 1 type
+Acid,Bludgeoning,Cold,Fire,Force,Lightning,Necrotic,Piercing,Poison,Psychic,Radiant,Slashing,Thunder
+
+//Attack 1 melee ranges
+5,5,5,5,5,5,5,5,5,10,10,10,10,10,5,5,5,5,5,5,5,5,5,10,10,10,10,10,5,5,5,5,5,5,5,5,5,10,10,10,10,10,15,20,25,30,35,40,45,50
+
+//Attack 1 ranged ranges
+20/60,30/120,40/160,20/60,30/120,40/160,20/60,30/120,40/160,50/200,60/240,70/280,80/320,90/360,100/400
+
+//Weighted range for characteristics
+1,1,1,1,1,2,2,2,3,4
+
+//Second Weighted range for characteristics
+0,0,0,0,0,0,0,0,1,1,1,1,1,2,2,2,3,4
+
+//Third Weighted range for characteristics
+0,0,0,0,0,0,0,0,1,1,1,1,1
+
+//Dice types
+4,6,8,10,12
